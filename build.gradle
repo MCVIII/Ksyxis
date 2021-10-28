@@ -9,8 +9,8 @@ archivesBaseName = "Ksyxis"
 version = "1.0"
 
 dependencies {
-	minecraft "com.mojang:minecraft:21w42a"
-	mappings "net.fabricmc:yarn:21w42a+build.4:v2"
+	minecraft "com.mojang:minecraft:21w43a"
+	mappings "net.fabricmc:yarn:21w43a+build.2:v2"
 	modImplementation "net.fabricmc:fabric-loader:0.12.3"
 }
 
